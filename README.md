@@ -42,11 +42,23 @@ To use the dashboard, users can navigate through the various tabs and charts to 
    - DarkMode
    
 ## DashBoard
-   ![Alt Text](https://imgur.com/a/QcAa5d9.gif)
+   - DeskTop View
+
+
+   ![This is a Responsive DashBoard](./src/Images/DashBoard.gif)
+   
+   - Mobile View
+
+
+   ![MobileView](./src/Images/MobileView.png)
 ## PieChart
+   ![PieChart](./src/Images/PieChart.png)
 ## LineChart
+   ![LineChart](./src/Images/LineChart.png)
 ## Interactive Table
+   ![Table](./src/Images/Table.png)
 ## DarkMode
+   ![DarkMode of the DashBoard](./src/Images/Dark%20DashBoard.png)
 
 ## Contributing
 
