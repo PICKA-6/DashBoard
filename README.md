@@ -8,6 +8,7 @@ This project is a highly responsive web application built using React.js and Typ
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Contents](#contents)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -32,6 +33,20 @@ This will launch the web application in your default browser at [http://localhos
 The web application provides a highly responsive dashboard interface that allows users to view and interact with data in a user-friendly manner. The dashboard includes various charts that are implemented using Nivo Charts, which offers a wide range of chart types and customization options.
 
 To use the dashboard, users can navigate through the various tabs and charts to view data and compare trends. The charts are interactive, allowing users to hover over data points and see detailed information.
+
+## Contents
+   - DashBoard
+   - PieChart
+   - LineChart
+   - Intertactive Table
+   - DarkMode
+   
+## DashBoard
+   ![Alt Text](https://imgur.com/a/QcAa5d9.gif)
+## PieChart
+## LineChart
+## Interactive Table
+## DarkMode
 
 ## Contributing
 
