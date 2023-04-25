@@ -62,7 +62,7 @@ To use the dashboard, users can navigate through the various tabs and charts to 
 
 ## Contributing
 
-We welcome contributions to this project from the community. If you encounter any bugs or have ideas for new features, please submit an issue or pull request on GitHub.
+I welcome contributions to this project from the community. If you encounter any bugs or have ideas for new features, please submit an issue or pull request on GitHub.
 
 Please follow these guidelines when contributing to this project:
 
@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-We would like to thank the creators of Chakra UI and Nivo Charts for providing such useful libraries to the React community.
+I would like to thank the creators of Chakra UI and Nivo Charts for providing such useful libraries to the React community.
 
 ## Contact
 
